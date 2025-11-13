@@ -1,5 +1,6 @@
 # UI-UX-Experiment2
-
+# Name: JUDETARUN
+# REG:212224040144
 ## Aim: To Design a Basic Mobile and Web Layout for an Existing Case Study
 
 ## Algorithm:
