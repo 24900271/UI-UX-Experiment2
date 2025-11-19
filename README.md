@@ -1,6 +1,4 @@
 # UI-UX-Experiment2
-# Name: JUDETARUN
-# REG:212224040144
 ## Aim: To Design a Basic Mobile and Web Layout for an Existing Case Study
 
 ## Algorithm:
@@ -17,7 +15,8 @@
 
 ![image](https://github.com/user-attachments/assets/44032913-c02f-42f5-ab94-799d73b2ddfd)
 
-![image](https://github.com/user-attachments/assets/d9475871-af28-40cb-b0a1-1b100a93179d)
+<img width="500" height="500" alt="Black and Grey Clean Modern Minimalist Creative Technology Logo" src="https://github.com/user-attachments/assets/279f267d-f688-4c8b-9d10-8312af8f1d44" />
+
 
 ## Result:
 To Design a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
